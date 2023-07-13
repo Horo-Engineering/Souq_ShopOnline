@@ -1,5 +1,5 @@
 {
-  "name": "com.marwaeltayeb.souq",
+  "name": "*",
   "version": "1.0.0",
   "description": "Laern only",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "Marwa Eltayeb",
+  "author": "Megersa",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.0",
